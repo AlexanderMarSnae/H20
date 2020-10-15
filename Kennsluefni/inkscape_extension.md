@@ -13,7 +13,7 @@ Viðbótin heitir *Lasercut Box* sem sækja má [hér](https://github.com/Neon22
 
 ![Sækja viðbót](../Myndir/inkscape_SaekjaExtension.png)
 
-Næst þarf að afþjappa zip skránni og taka skrárnar með ```.py``` og ```.inx``` endingunum og setja þær í ```extensions``` möppuna fyrir Inkscape:
+Næst þarf að afþjappa zip skránni og taka skrárnar með ```.py``` (python skrá) og ```.inx``` endingunum og setja þær í ```extensions``` möppuna fyrir Inkscape:
 
 **Fyrir Windows:**
 
