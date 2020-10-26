@@ -10,7 +10,7 @@ Lyfta þarf 250g í einhverja hæð sem skiptir ekki máli hér, unnið er með 
 Upprifjun úr eðlisfræði grunnskólans, F = m x g þar sem F er kraftur í Newton, m = massi kg og g er þyngdarhröðun jarðar (9,8m/sek*sek)  
 *- Reiknaður massi m = F/g eða 0,00049N/9,8m/sek*sek = 0,00005kg*m breytt í 0,05g*m = **5gcm**
 Sem sagt snúningsvægi mótors er 5gcm og auðvelt að reika gírhlutfall því 250/5g = 50 eða 1:50, það eru nokkrir möguleikar að útfæra þetta t.d 1/2 x 1/5 x 1/5 x 1/5
-2x5x5x5 = 250 [skoðið þetta myndband]()
-![mynd](https://github.com/VESM1VS/H20/blob/master/Myndir/gearratio.png)
-
+2x5x5x5 = 250 
+![mynd](/Myndir/gearratio.png)
+[skoðið þetta myndband]()
 
