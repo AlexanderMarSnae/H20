@@ -4,3 +4,6 @@
 * [Tannhjól og gírhlutfall](https://www.youtube.com/watch?v=D_i3PJIYtuY)
 * [Talíur og virkni þeirra (pulleys)](https://www.youtube.com/watch?v=M2w3NZzPwOM)
 * [Hönnun og teikning tannhjóla](https://www.youtube.com/watch?v=ckdTFhdEPIY&ab_channel=MarkII)
+
+### Sýnidæmi
+
