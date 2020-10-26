@@ -12,5 +12,6 @@ Upprifjun úr eðlisfræði grunnskólans, F = m x g þar sem F er kraftur í Ne
 Sem sagt snúningsvægi mótors er 5gcm og auðvelt að reika gírhlutfall því 250g/5g = 50 eða 1:50, það eru nokkrir möguleikar að útfæra þetta t.d 1/2 x 1/5 x 1/5 x 1/5
 2x5x5x5 = 250 sjá mynd
 ![mynd](/Myndir/gearratio.png)
+
 [skoðið þetta myndband]()
 
