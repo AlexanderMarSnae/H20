@@ -6,4 +6,6 @@
 * [Hönnun og teikning tannhjóla](https://www.youtube.com/watch?v=ckdTFhdEPIY&ab_channel=MarkII)
 
 ### Sýnidæmi
+Lyfta þarf 300g í einhverja hæð sem skiptir ekki máli hér, unnið er með litlan dc mótor og samkvæmt [tæknilýsingu](https://kinmoremotor.com/product/dc-motor/ff-030pa-pk/) (documentation) er hann gefin  
+
 
