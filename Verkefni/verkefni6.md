@@ -3,6 +3,7 @@
 ### Ýtarefni
 * Eðlisfræði II lesa Kraftur og hreyfing bls 6 - 35 og Orka og afl bl 90 -104
 * [Annað lögmál Newtons,3 video Khanacademy](https://youtu.be/ou9YMWlJgkE)
+* [Snúningsvægi (Torq)](https://www.youtube.com/watch?v=jg4e8W44_E4)
 * [Tannhjól og gírhlutfall](https://www.youtube.com/watch?v=D_i3PJIYtuY)
 * [Talíur og virkni þeirra (pulleys)](https://www.youtube.com/watch?v=M2w3NZzPwOM)
 * [Hönnun og teikning tannhjóla](https://www.youtube.com/watch?v=ckdTFhdEPIY&ab_channel=MarkII)
