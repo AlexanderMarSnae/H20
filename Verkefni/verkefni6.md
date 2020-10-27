@@ -1,7 +1,7 @@
 ### Drög af verkefni 6
 Áður en þið byrjið á verkefni 6 er nauðsyn að skoða allt ýtarefni og sýnidæmi.
 ### Ýtarefni
-* Eðlisfræði II lesa Kraftur og hreyfing bls 6 - 35 og Orka og afl bl 90 -104 í dag og næstu viku
+* Eðlisfræði II lesa Kraftur og hreyfing bls 6 - 35 og Orka og afl bl 90 -104
 * [Tannhjól og gírhlutfall](https://www.youtube.com/watch?v=D_i3PJIYtuY)
 * [Talíur og virkni þeirra (pulleys)](https://www.youtube.com/watch?v=M2w3NZzPwOM)
 * [Hönnun og teikning tannhjóla](https://www.youtube.com/watch?v=ckdTFhdEPIY&ab_channel=MarkII)
