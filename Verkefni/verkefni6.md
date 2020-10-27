@@ -14,5 +14,7 @@ eða 2x5x5 = 50 sjá mynd
 
 ![mynd](/Myndir/gearratio.png)
 
-[skoðið þetta myndband 1.hluti](https://nam.inna.is/api/Attachment/DownloadFile/513873/553459)
+Skoðið þessi myndbönd:
+* [1.hluti](https://nam.inna.is/api/Attachment/DownloadFile/513873/553459)
+* [1.hluti](https://nam.inna.is/api/Attachment/DownloadFile/513873/553459)
 
