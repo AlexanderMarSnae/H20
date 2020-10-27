@@ -16,5 +16,5 @@ eða 2x5x5 = 50 sjá mynd
 
 Skoðið þessi myndbönd:
 * [1.hluti](https://nam.inna.is/api/Attachment/DownloadFile/513873/553459)
-* [2.hluti](https://nam.inna.is/api/Attachment/DownloadFile/513873/553459)
+* [2.hluti](https://nam.inna.is/api/Attachment/DownloadFile/514841/553459)
 
