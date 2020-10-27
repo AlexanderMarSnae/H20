@@ -25,7 +25,7 @@ Skoðið þessi myndbönd um hönnun og teikningu í Inkscape af tannhjólum og 
 -  Dc mótor sem þið eruð með þarf að lyfta 1.kg finnið út gírhlutfall til að lyfta 300g. Gildir 30%  
 *-Sýnið útreikninga og hlutföll eins og í sýnidæmi.-*
 - Hannið talíu sem nægir sem viðbót við gírana að lyfta 1kg. Gildir 20%. 
-*-Sýnið teikningu af talíu (fríhendisteikn eða mynd af neti má nota)-*
+*-Sýnið teikningu af talíu (fríhendisteikning eða mynd af neti má nota)-*
 -  Hannið tannhjól og gíra í Inkscape. Gildir 50%
 ### Skil á verkefni
 Setjið inn á gitið ykkar:
