@@ -17,7 +17,7 @@ eða 2x5x5 = 50 sjá mynd
 
 ![mynd](/Myndir/gearratio.png)
 
-Skoðið þessi myndbönd:
+Skoðið þessi myndbönd um hönnun og teikningu af tannhjólum og gírhlutföll:
 * [1.hluti](https://nam.inna.is/api/Attachment/DownloadFile/513873/553459)
 * [2.hluti](https://nam.inna.is/api/Attachment/DownloadFile/514841/553459)
 
