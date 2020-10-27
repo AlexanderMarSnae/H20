@@ -22,8 +22,10 @@ Skoðið þessi myndbönd um hönnun og teikningu í Inkscape af tannhjólum og 
 * [2.hluti](https://nam.inna.is/api/Attachment/DownloadFile/514841/553459)
 
 ## Verkefni 6
--  Dc mótor sem þið eruð með þarf að lyfta 1.kg finnið út gírhlutafll til að lyfta  300g gildir 30%  -Sýnið útreikninga og hlutföll eins og í sýnidæmi.
-- Hannið talíu sem nægir til að lyfta afgangi þ.e 700g gildir 20%. -Sýnið teikningu af talíu (fríhendisteikn eða mynd af neti má nota)
+-  Dc mótor sem þið eruð með þarf að lyfta 1.kg finnið út gírhlutafll til að lyfta  300g gildir 30%  
+*-Sýnið útreikninga og hlutföll eins og í sýnidæmi.-*
+- Hannið talíu sem nægir til að lyfta afgangi þ.e 700g gildir 20%. 
+*-Sýnið teikningu af talíu (fríhendisteikn eða mynd af neti má nota)-*
 -  Hannið tannhjól og gíra í Inkscape gildir 50%
 ### Skil á verkefni
 Setjið inn á gitið ykkar:
