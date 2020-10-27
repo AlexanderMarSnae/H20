@@ -31,6 +31,6 @@ Skoðið þessi myndbönd um hönnun og teikningu í Inkscape af tannhjólum og 
 Setjið inn á gitið ykkar:
 * Lýsing á verkefni þar sem þið lýsið því sem þið gerðuð
 * Útreikninga á gírhlutföllum
-* Mynd af tannhjólumsem þið gerið Inkscape
+* Mynd af tannhjólum sem þið gerið Inkscape
 * Mynd af talíu sem þið hannið
 
