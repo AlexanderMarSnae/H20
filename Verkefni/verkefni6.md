@@ -2,7 +2,7 @@
 Áður en þið byrjið á verkefni 6 er nauðsyn að skoða allt ýtarefni og sýnidæmi.
 ### Ýtarefni
 * Eðlisfræði II lesa Kraftur og hreyfing bls 6 - 35 og Orka og afl bl 90 -104
-* [Eðlisfræði Khanacademy](https://www.khanacademy.org/science/physics/forces-newtons-laws#newtons-laws-of-motion)
+* [Annað lögmál Newtons,3 video Khanacademy](https://youtu.be/ou9YMWlJgkE)
 * [Tannhjól og gírhlutfall](https://www.youtube.com/watch?v=D_i3PJIYtuY)
 * [Talíur og virkni þeirra (pulleys)](https://www.youtube.com/watch?v=M2w3NZzPwOM)
 * [Hönnun og teikning tannhjóla](https://www.youtube.com/watch?v=ckdTFhdEPIY&ab_channel=MarkII)
