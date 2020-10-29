@@ -1,7 +1,7 @@
 ### Drög af verkefni 6
 Áður en þið byrjið á verkefni 6 er nauðsyn að skoða allt ýtarefni og sýnidæmi.
 ### Ýtarefni
-* Eðlisfræði II lesa Kraftur og hreyfing bls 6 - 35 og Orka og afl bl 90 -104
+* Eðlisfræði II lesa **Kraftur og hreyfing** bls. 6 - 35 og **Orka og afl** bls. 90 - 104 ([rafbók](https://vefir.mms.is/flettibaekur/namsefni/edlisfraedi2/), [hljóðbók](https://mms.is/namsefni/edlisfraedi-2-hljodbok)).
 * [Annað lögmál Newtons,3 video Khanacademy](https://youtu.be/ou9YMWlJgkE)
 * [Snúningsvægi (Torq)](https://www.youtube.com/watch?v=jg4e8W44_E4)
 * [Tannhjól og gírhlutfall](https://www.youtube.com/watch?v=D_i3PJIYtuY)
