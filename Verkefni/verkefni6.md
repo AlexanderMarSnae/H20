@@ -1,4 +1,4 @@
-### Drög af verkefni 6
+### Verkefni 6
 Áður en þið byrjið á verkefni 6 er nauðsyn að skoða allt ýtarefni og sýnidæmi.
 ### Ýtarefni
 * Eðlisfræði II lesa **Kraftur og hreyfing** bls. 6 - 35 og **Orka og afl** bls. 90 - 104 ([rafbók](https://vefir.mms.is/flettibaekur/namsefni/edlisfraedi2/), [hljóðbók](https://mms.is/namsefni/edlisfraedi-2-hljodbok)).
