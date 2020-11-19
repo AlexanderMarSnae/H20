@@ -17,7 +17,7 @@ eða 2x5x5 = 50 sjá mynd
 
 ![mynd](/Myndir/gearratio.png)
 
-Skoðið þessi myndbönd um hönnun og teikningu í Inkscape af tannhjólum og gírhlutföll:
+Skoðið þessi myndbönd um hönnun og teikningu í Inkscape af tannhjólum og gírhlutföll (ef myndböndin opnast ekki, getið þið skoðað þau á innu (undir Efni í áfanganum)):
 * [1.hluti](https://nam.inna.is/api/Attachment/DownloadFile/513873/553459)
 * [2.hluti](https://nam.inna.is/api/Attachment/DownloadFile/514841/553459)
 
