@@ -16,6 +16,9 @@ Kassann og jólatréð á að hanna í Inkscape.
 
 ![rafrás](../Myndir/VESM1_lokaverkefni_H20.png)
 
+### Lóðun á Veroborði
+![veroborð](../Myndir/Lokaverkefni%20VESM1VS05.png)
+
 ### Íhlutir
 
 - 9 mislitar LED perur.
