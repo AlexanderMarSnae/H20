@@ -6,7 +6,7 @@
 
 Í þessu verkefni ætlar þú að hanna og smíða syngjandi jólatré. Jólatréð þarf að standa á kassa en í honum á að vera Arduino tölvan og hátalari. Jólatréð er svo skreytt með 9 LED perum sem blikka í takt við jólalögin sem Arduino tölvan spilar.
 
-Kassann og jólatréð á að hanna í Inkscape.
+Kassann (60*80 innanmál)og jólatréð á að hanna í Inkscape.
 
 ### Dæmi um útfærslu
 
