@@ -69,7 +69,7 @@ int tempo[] = {
   
 };
 
-void buzz(int long, long);
+void buzz(int, long, long);
 
 void setup()
 {
@@ -107,7 +107,7 @@ void loop()
     if(thisNote < size - 1) thisNote++;
     else thisNote = 0;
     digitalWrite(linur[lina], HIGH);
-  	digitalWrite(dalkar[dalkur], LOW);
+    digitalWrite(dalkar[dalkur], LOW);
 }
 
 void buzz(int targetPin, long frequency, long length) {
