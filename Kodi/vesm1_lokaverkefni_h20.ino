@@ -73,7 +73,7 @@ void buzz(int long, long);
 
 void setup()
 {
-  for(int i = 3; i < 11; i++) {
+  for(int i = 2; i < 11; i++) {
   	pinMode(i, OUTPUT);
     digitalWrite(i, LOW);
   }
